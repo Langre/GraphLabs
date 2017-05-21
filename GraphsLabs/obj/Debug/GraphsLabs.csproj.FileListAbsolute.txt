@@ -1,0 +1,6 @@
+E:\GraphsLabs\GraphsLabs\bin\Debug\GraphsLabs.exe.config
+E:\GraphsLabs\GraphsLabs\bin\Debug\GraphsLabs.exe
+E:\GraphsLabs\GraphsLabs\bin\Debug\GraphsLabs.pdb
+E:\GraphsLabs\GraphsLabs\obj\Debug\GraphsLabs.csprojResolveAssemblyReference.cache
+E:\GraphsLabs\GraphsLabs\obj\Debug\GraphsLabs.exe
+E:\GraphsLabs\GraphsLabs\obj\Debug\GraphsLabs.pdb
